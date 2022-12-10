@@ -1,29 +1,30 @@
 import React from "react";
+import classes from './ResultsItem.module.css';
 import { useGlobalContext } from "../context";
 
 function ResultsItem({ name, img, omen, fortune_telling, keywords }) {
   const { checkedCards } = useGlobalContext();
 
   return (
-    <article className="results__item">
-      <div className="results__card">
+    <article className={classes['results__item']}>
+      <div className={classes['results__card']}>
         <img src={img} alt={name}></img>
       </div>
-      <div className="results__desc">
+      <div className={classes['results__desc']}>
         <p>
-          <span className="results__data">Nazwa: </span>
+          <span className={classes['results__data']}>Nazwa: </span>
           {name}
         </p>
         <p>
-          <span className="results__data">Dobry czy zły znak?: </span>
+          <span className={classes['results__data']}>Dobry czy zły znak?: </span>
           {omen}
         </p>
         <p>
-          <span className="results__data">Przesłanie: </span>
+          <span className={classes['results__data']}>Przesłanie: </span>
           {fortune_telling}
         </p>
         <p>
-          <span className="results__data">Skojarzone słowa: </span>
+          <span className={classes['results__data']}>Skojarzone słowa: </span>
           {keywords}
         </p>
       </div>

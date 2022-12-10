@@ -1,5 +1,6 @@
 import React from "react";
 import { useGlobalContext } from "../context";
+import classes from './Card.module.css';
 
 const Card = ({ name, omen, img, fortune_telling, keywords }) => {
   const {
@@ -8,6 +9,7 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
     numerOfCardsToDisplay,
     setIsPickingActive,
     isPickingActive,
+    setTurnedCard
   } = useGlobalContext();
 
   const pickingCardHandler = () => {
@@ -17,9 +19,10 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
     }
     if (checkedCards.includes(name)) return;
 
-    let newCards = [{ name, img, omen, fortune_telling, keywords }];
+    let newCards = [{ name, img, omen, fortune_telling, keywords, active: true }];
     newCards.push(...checkedCards);
     setCheckedCards(newCards);
+    // setTurnedCard(true);
   };
 
   console.log(checkedCards);
@@ -29,12 +32,12 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
 
   return (
     <>
-      <div className="card" onClick={pickingCardHandler}>
-        <div className="card__side card__side--front">
-          <img className="card__image" src={img} alt={name}></img>
+      <div className={classes.card} onClick={pickingCardHandler}>
+        <div className={classes['card__side card__side--front']}>
+          <img className={classes['card__image']} src={img} alt={name}></img>
         </div>
-        <div className="card__side card__side--back">
-          <img className="card__image" src={img} alt={name}></img>
+        <div className={classes['card__side card__side--back']}>
+          <img className={classes['card__image']} src={img} alt={name}></img>
         </div>
       </div>
     </>

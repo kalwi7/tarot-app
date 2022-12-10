@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from "react";
-import data from "./data";
+import data from "./data2";
 // import { useCallback } from "react";
 
 const AppContext = React.createContext();
