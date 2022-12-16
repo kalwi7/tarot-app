@@ -8,30 +8,30 @@ function ResultsItem({ name, img, omen, fortune_telling, keywords }) {
         <img src={img} alt={name}></img>
       </div>
       <div className={classes["results__desc"]}>
-        <p>
+        <div className={classes["results__wrapper"]}>
           <span className={classes["results__data"]}>Nazwa: </span>
           {name}
-        </p>
-        <p>
+        </div>
+        <div className={classes["results__wrapper"]}>
           <span className={classes["results__data"]}>Dobry/zły: </span>
           {omen}
-        </p>
-        <p>
+        </div>
+        <div className={classes["results__wrapper"]}>
           <span className={classes["results__data"]}>Przesłanie: </span>
           <ul>
-            {fortune_telling.map((fortune) => (
-              <li>{fortune}</li>
+            {fortune_telling.map((fortune, id) => (
+              <li key={id}>{fortune}</li>
             ))}
           </ul>
-        </p>
-        <p>
+        </div>
+        <div className={classes["results__wrapper"]}>
           <span className={classes["results__data"]}>Skojarzone słowa: </span>
           <ul>
-            {keywords.map((word) => (
-              <li>{word}</li>
+            {keywords.map((word, id) => (
+              <li key={id}>{word}</li>
             ))}
           </ul>
-        </p>
+        </div>
       </div>
     </article>
   );

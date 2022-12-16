@@ -12,7 +12,7 @@ export const Cards = () => {
       <h3>Wybierz karty do wróżby</h3>
       <div className={classes["cards-area"]}>
         {cardsToPlay.map((card) => {
-          return <Card {...card} />;
+          return <Card key={card.name} {...card} />;
         })}
       </div>
     </main>

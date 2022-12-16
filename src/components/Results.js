@@ -35,7 +35,7 @@ function Results() {
       )}
       <Bar />
       {checkedCards.map((item) => (
-        <ResultsItem {...item} />
+        <ResultsItem key={item.name} {...item} />
       ))}
     </div>
   );
