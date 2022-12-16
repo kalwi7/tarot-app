@@ -1,0 +1,12 @@
+.cards-area {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+
+  grid-gap: 2rem;
+}
+
+/* @media only screen and (max-width: 750px) {
+  .cards-area {
+    grid-template-columns: repeat(3, 1fr);
+  }
+} */

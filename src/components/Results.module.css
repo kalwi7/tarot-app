@@ -1,0 +1,11 @@
+.results {
+  margin-top: 4rem;
+  padding: 1rem;
+  background-color: #998b6b;
+  border-radius: 1.5rem;
+}
+
+.results__header {
+  font-size: 2rem;
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+.container {
+  height: 2rem;
+  background-color: #e0e0de;
+  border-radius: 1.5rem;
+  margin: 2.5rem;
+}
+
+.filler {
+  height: 100%;
+  text-align: center;
+  background-color: #f9db9d;
+  border-radius: inherit;
+}
+
+.filler--green {
+  background-color: green;
+}
+
+.filler--red {
+  background-color: #af0202;
+}
+
+.label {
+  padding: 5;
+  color: white;
+  font-weight: bold;
+}

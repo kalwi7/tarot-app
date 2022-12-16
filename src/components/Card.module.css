@@ -1,0 +1,45 @@
+.card {
+  margin: 0 auto;
+  perspective: 110rem;
+  position: relative;
+  cursor: pointer;
+  width: 16rem;
+  height: 27rem;
+}
+
+.card__side {
+  transition: all 0.8s ease;
+  margin-bottom: 3rem;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  backface-visibility: hidden;
+}
+
+.card__side--front {
+}
+
+.card__side--back {
+  transform: rotateY(-180deg);
+}
+
+.card--active > .card__side.card__side--front {
+  transform: rotateY(180deg);
+}
+
+.card--active > .card__side.card__side--back {
+  transform: rotateY(0);
+}
+
+/* .card > .card__side.card__side--front {
+  color: red;
+} */
+
+.card__image {
+  width: 100%;
+  border-radius: 1.5rem;
+  outline: 2px solid black;
+  outline-offset: -2px;
+}
