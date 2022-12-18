@@ -1,28 +1,29 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,300&display=swap");
-
-html {
-  font-size: 62.5%;
+#tarot-app {
   font-family: "Lato", sans-serif;
-  font-weight: ;
+  /* font-weight: ;
   background: rgb(41, 46, 49);
   background: linear-gradient(
     90deg,
     rgba(41, 46, 49, 1) 0%,
     rgba(66, 69, 71, 1) 100%
-  );
+  ); */
+  /* box-sizing: border-box; */
+  /* padding: 0.8rem; */
+  font-size: 16px;
 }
 
-body {
+/* body {
   box-sizing: border-box;
   padding: 0.8rem;
-  font-size: 1.6rem;
-}
+  
+} */
 
 .wrapper {
-  max-width: 100rem;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
+h1,
 h2,
 h3 {
   text-align: center;

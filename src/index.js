@@ -4,7 +4,7 @@ import App from "./App";
 import { AppProvider } from "./context";
 import classes from "./index.module.css";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const root = ReactDOM.createRoot(document.getElementById("tarot-app"));
 root.render(
   <React.StrictMode>
     <AppProvider>

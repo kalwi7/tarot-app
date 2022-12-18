@@ -1,15 +1,16 @@
 .card {
   margin: 0 auto;
-  perspective: 110rem;
+  perspective: 1100px;
   position: relative;
   cursor: pointer;
-  width: 16rem;
-  height: 27rem;
+  width: 160px;
+  height: 270px;
+  /* margin-top: 10px; */
 }
 
 .card__side {
   transition: all 0.8s ease;
-  margin-bottom: 3rem;
+  margin-bottom: 30px;
 
   position: absolute;
   top: 0;
@@ -39,7 +40,18 @@
 
 .card__image {
   width: 100%;
-  border-radius: 1.5rem;
+  border-radius: 15px;
   outline: 2px solid black;
   outline-offset: -2px;
+}
+
+@media only screen and (max-width: 430px) {
+  .card {
+    width: 100px;
+    height: 172px;
+  }
+
+  .card__image {
+    border-radius: 10px;
+  }
 }

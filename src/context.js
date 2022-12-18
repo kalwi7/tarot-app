@@ -23,14 +23,14 @@ function barReducer(state, action) {
     return {
       ...state,
       good: state.good + 1,
-      result: Math.round(state.result + (1 / numerOfCardsToDisplay) * 100),
+      result: Math.ceil(state.result + (1 / numerOfCardsToDisplay) * 100),
     };
   }
   if (action.type === "zły") {
     return {
       ...state,
       bad: state.bad + 1,
-      result: Math.round(state.result - (1 / numerOfCardsToDisplay) * 100),
+      result: Math.ceil(state.result - (1 / numerOfCardsToDisplay) * 100),
     };
   }
 }

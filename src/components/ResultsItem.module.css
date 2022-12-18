@@ -1,20 +1,22 @@
 .results__item {
   display: flex;
-  margin: 0.5rem;
-  font-size: 1.6rem;
+  margin: 5px;
+  font-size: 16px;
   border: 2px solid #3c4042;
-  border-radius: 1.5rem;
-  padding: 2rem;
+  border-radius: 15px;
+  /* padding: 2rem; */
 }
 
 .results__card {
   max-width: 25%;
-  margin-right: 2rem;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 7px;
 }
 
 .results__card img {
   width: 100%;
-  border-radius: 1.5rem;
+  border-radius: 15px;
   outline: 2px solid black;
   outline-offset: -2px;
 }
@@ -35,11 +37,12 @@
   .results__item {
     flex-direction: column;
     align-items: center;
-    margin-bottom: 2rem;
+    margin-bottom: 20px;
   }
 
   .results__card {
-    max-width: 20rem;
+    max-width: 200px;
+    margin-left: 0px;
   }
 
   .results__desc {
