@@ -22,7 +22,7 @@ function Results() {
       setIsPickingActive(false);
       executeScroll();
     }
-  }, [checkedCards]);
+  }, [checkedCards, numerOfCardsToDisplay]);
 
   return (
     <div ref={resultHeader} className={classes.results}>

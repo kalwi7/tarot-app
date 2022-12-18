@@ -11,7 +11,6 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
     checkedCards,
     numerOfCardsToDisplay,
     setIsPickingActive,
-    isPickingActive,
     goodFortunePicked,
     badFortunePicked,
   } = useGlobalContext();
