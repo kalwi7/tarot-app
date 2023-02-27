@@ -38,6 +38,9 @@ export default {
       Archetype: "Boski szaleniec",
       Numerology: "0 (poza skalą; czysty potencjał)",
       Elemental: "Powietrze",
+      love: "W kontekście uczuć i miłości, Głupiec może oznaczać podejmowanie ryzyka w imię miłości i szukanie przygód z ukochanym. Może to być również sygnał, że trzeba otworzyć się na nowe możliwości i doświadczenia w związku. Jeśli chodzi o nasze uczucia do drugiej osoby, Głupiec może oznaczać, że jesteśmy gotowi podejmować ryzyko i poświęcić się dla naszej miłości. Może to także sygnalizować, że jesteśmy bardzo zakochani i gotowi na wszystko dla drugiej połówki.",
+      love_reverse:
+        "Karta tarota Głupiec, może sugerować brak stabilności i poważnego podejścia do związku jeżeli jest w pozycji odwróconej, co może prowadzić do problemów i niestabilności w miłości. W takim przypadku, może to być sygnał, że należy uważać i dokładnie przemyśleć nasze działania w związku.",
       Mistics:
         "Adam przed upadkiem. Chrystus jako wędrowny święty szaleniec. Bóstwo owinięte ludzkim ciałem. Duch Święty.",
       Questions_to_ask: [
@@ -79,6 +82,9 @@ export default {
       Archetype: "Ego / Jaźń",
       Numerology: "1 (pochodzenie, jedność, nasiona)",
       Elemental: "Słońce/Merkury",
+      love: "Mag może być postrzegany jako karta pomyślności w miłości, wskazując na silne uczucia i dobre relacje między partnerami. Może również sugerować, że osoba, która otrzymała tę kartę, jest silna i zdeterminowana w swoich uczuciach, co pozwala jej na lepsze radzenie sobie z trudnościami w miłości.",
+      love_reverse:
+        "W pozycji odwróconej Mag może być zwiastunem problemów w życiu miłosnym. Może sugerować, że osoba, która otrzymała tę kartę, jest zbyt zdominowana przez swoje uczucia i potrzeby, co może prowadzić do konfliktów w związku. Mogą również pojawić się problemy związane z komunikacją i niezrozumieniem między partnerami.",
       Mistics:
         "Thoth, egipski bóg mądrości, znany Grekom jako Hermes, a Rzymianom jako Merkury. Chrystus czyniący cuda. Brahma, Stwórca.",
       Questions_to_ask: [
@@ -122,6 +128,9 @@ export default {
       Archetype: "Dziewica / Dziewica",
       Numerology: "2 (podział, debata, dwoistość)",
       Elemental: "Księżyc",
+      love: "Jeśli jesteś singlem, karta ta może oznaczać, że jesteś gotów na nowe miłosne doświadczenia i że twoja intuicja ci pomoże w znalezieniu odpowiedniej osoby. Jeśli jesteś w związku, karta ta może oznaczać, że powinieneś skupić się na swoich uczuciach i potrzebach oraz być bardziej uważnym na potrzeby drugiej osoby. Może również oznaczać, że druga osoba czuje się bezpiecznie i potrafi nam zaufać w relacji. Jest to pozytywny znak, który sugeruje, że jesteśmy w stanie budować silny i trwały związek.",
+      love_reverse:
+        "Jeśli karta pojawia się w pozycji negatywnej, może oznaczać, że jesteśmy zbyt skupieni na sobie i swoich potrzebach i nie jesteśmy w stanie dostrzec potrzeb drugiej osoby. Być może brakuje nam odpowiedniej komunikacji i słuchania drugiej osoby.",
       Mistics:
         "Kobiecy aspekt boskości, wyjątkowość wyrażana przez dziewictwo, jak w przypadku Maryi Panny lub Izydy.",
       Questions_to_ask: [
@@ -164,6 +173,9 @@ export default {
       Archetype: "Matka",
       Numerology: "3 (wyrażenie sieibe, produktywność, wynik)",
       Elemental: "Wenus",
+      love: "Jeśli jesteś singlem i w swoim rozkładzie tarota uzyskałeś Cesarzową, to jest to dobry znak, że w twoim życiu miłosnym pojawi się osoba, która będzie mocna, niezależna i zdecydowana. Jeśli jesteś już w związku, Cesarzowa oznacza, że twoje uczucie jest silne i trwałe, a Ty i Twój partner jesteście w stanie utrzymać swoje relacje w stabilnej równowadze.",
+      love_reverse:
+        "Cesarzowa także może wskazywać na trudności w twoim życiu miłosnym, jeśli jest połączona z kartami, które oznaczają konflikty lub trudności lun jest w pozycji odwróconej. W takim przypadku, Cesarzowa może sugerować, że w twoim związku trzeba będzie walczyć o swoje uczucia, aby utrzymać je silne i trwałe.",
       Mistics:
         "Gaja, Matka Ziemia, Isztar, Demeter – dojrzała , reprodukcyjna boskość żeńska w każdej postaci. Także Afrodyta i Turan ",
       Questions_to_ask: [
@@ -205,6 +217,9 @@ export default {
       Archetype: "Ojciec",
       Numerology: "4 (stabilność, równość, wytrwałość)",
       Elemental: "Mars/Baran",
+      love: "Jeśli otrzymasz tę kartę przy rozkładaniu tarota na temat swojego życia miłosnego, może to oznaczać, że masz silne i trwałe uczucie do swojego partnera, a twój związek jest oparty na wzajemnym zaufaniu i zrozumieniu. Może to także wskazywać, że jesteś w stanie kontrolować sytuację w swoim związku i że twoja relacja jest mocna i stabilna.",
+      love_reverse:
+        " Jeśli karta pojawia się w pozycji odwróconej lub inne karty nakreślają negatywny kontekst, Cesarz może wtedy oznaczać brak emocjonalnej stabilności lub niepewność w związku. W takim przypadku, karta może również sugerować, że twój partner jest zdominowany i kontrolowany przez swoje emocje, co może prowadzić do problemów w waszej relacji.",
       Mistics:
         "Bogowie rodzaju męskiego, w tym Bóg hebrajski, Bóg chrześcijański, Allah i Zeus. Patriarchowie (Abraham) i prawodawcy (Mojżesz). Wisznu, Zachowawca.",
       Questions_to_ask: [
@@ -246,6 +261,9 @@ export default {
       Archetype: "Strażnik / Kościół / Wiara",
       Numerology: "5 (niestabilność, opór, konfrontacja, ewolucja)",
       Elemental: "Byk/Ziemia",
+      love: "Jeśli jesteś samotną osobą i zastanawiasz się, jak Arcykapłan w tarocie wpłynie na twoje życie uczuciowe, to istnieje kilka wskazówek, na które powinieneś zwrócić uwagę. Przede wszystkim, karta sugeruje, że ​​musisz być otwarty na nowe idee, myśli i doświadczenia, aby znaleźć swoją prawdziwą miłość. Musisz szukać duchowego partnera, z kim zbudujesz silny związek oparty na duchowej zgodzie i zrozumieniu. Jeśli z kolei karta papieża pojawia się w kontekście twojego obecnego związku, to może sugerować, że ​​jest to związek oparty na duchowej i intelektualnej więzi. Może to być znak, że twoje uczucia względem swojego partnera są głębokie i silne, ale jednocześnie istnieje potrzeba pracy nad rozwijaniem związku, aby nie tylko pogłębiać wasze więzi emocjonalne, ale także te intelektualne i duchowe.",
+      love_reverse:
+        "Warto jednak pamiętać, że jak każda karta Tarota, również Kapłan ma swoje wady i pułapki. Jedną z największych wad, jaką reprezentuje, jest nadmierna ostrożność i skłonność do nadmiernego zastanawiania się nad każdą decyzją. To może prowadzić do stagnacji, co w kontekście miłości i związków oznacza brak postępu i zmian, a w konsekwencji może być szkodliwe dla związku.",
       Mistics:
         "Chrystus, apostoł Piotr, Budda, Mahomet. Papieże, kapłani i orędownicy wszystkich wyznań i tradycji",
       Questions_to_ask: [
@@ -287,6 +305,9 @@ export default {
       Archetype: "Kochanek / przebudzenie seksualne",
       Numerology: "6 (współpraca, współpraca, interakcja)",
       Elemental: "Bliźnięta",
+      love: "W temacie uczuć i miłości, karta Kochankowie może wskazywać na pojawienie się nowych, intensywnych uczuć lub związków. Karta ta może być też interpretowana jako znak, że miłość i namiętność wkrótce pojawią się w życiu danej osoby.",
+      love_reverse:
+        "Kochankowie nie zawsze oznaczają pomyślność, ponieważ w tej pozycji karta ta może też symbolizować trudne wybory i decyzje związane z uczuciami. Może to sugerować, że osoba będzie musiała wybrać między dwoma potencjalnymi partnerami lub wybrać, czy chce poświęcić swoją karierę dla miłości.",
       Mistics:
         "Oczywiście Adam i Ewa, którzy są przedstawieni w taliach inspirowanych RWS. Również Wenus i Kupidyn, Afrodyta i Eros.",
       Questions_to_ask: [
@@ -325,6 +346,9 @@ export default {
       Archetype: "Zwycięski bohater",
       Numerology: "7 (wyobraźnia, praca wewnętrzna, psychologia)",
       Elemental: "Rak",
+      love: "W odniesieniu do miłości i uczuć, karta Rydwan może wskazywać na silne emocje i pożądanie. Wskazuje na dynamiczny, ekscytujący i zdecydowany charakter, który z pewnością przyciągnie uwagę partnera. Jeśli jesteś w związku i pytasz o swoje uczucia, ta karta sugeruje, że twoje relacje są pełne energii i ruchu. Wskazuje również na fakt, że jesteś gotów na zmiany w swoim życiu miłosnym i podejmujesz działania, aby osiągnąć to, czego pragniesz.",
+      love_reverse:
+        "Karta Rydwan w pozycji odwróconej może wskazywać na niezdecydowanie i brak kontroli nad sytuacją. Może wskazywać na potrzebę zwolnienia tempa i zastanowienia się nad swoimi wyborami. Może także wskazywać na konflikt lub brak porozumienia w związku.",
       Mistics:
         "Odyseusz. Jazon. Poszukiwanie Świętego Graala. Triumfalny wjazd Chrystusa do Jerozolimy.",
       Questions_to_ask: [
@@ -362,7 +386,10 @@ export default {
       },
       Archetype: "Prawo",
       Numerology: "8 (ruch, praca) lub 11 = 1 + 1 = 2 (debata, dwoistość)",
-      Żywiołaki: "Waga lub Lew",
+      Elemental: "Waga lub Lew",
+      love: "W kontekście miłości, karta Siła oznacza, że nasza miłość i uczucia są bardzo silne i zdolne przetrwać trudne chwile. Ta karta mówi o pozytywnych i silnych uczuciach, które przynoszą radość i spełnienie. Osoba, która otrzymuje tę kartę, może czuć się pewna swojego partnera i swojego związku. Oznacza to, że osoba ta jest gotowa do walki o swoją miłość i gotowa jest na trudne wyzwania, jakie mogą się pojawić na drodze do szczęśliwego związku. Może również oznaczać, że nasze uczucia są na tyle silne, że przyciągają do nas pozytywne energie i ludzi, którzy podzielają nasze wartości i cele życiowe.",
+      love_reverse:
+        "Karta Siła w pozycji odwróconej pokazuje, że musimy zmierzyć się z pewnymi wyzwaniami, które mogą wpłynąć na nasze relacje miłosne. Często oznacza to, że musimy być bardziej stanowczy i bardziej zdeterminowani, aby przetrwać trudne chwile. Karta ta mówi nam, że musimy być gotowi na działanie i zdecydowane kroki, aby utrzymać nasze uczucia i relacje w dobrym stanie.",
       Mistics:
         "Temida lub Justitia . Ma'at . Salomon dzielący dziecko. Miecz Damoklesa. Nadanie dziesięciu przykazań.",
       Questions_to_ask: [
@@ -401,6 +428,9 @@ export default {
       Archetype: "Święty człowiek",
       Numerology: "9 (pełnia, gotowość, dojrzałość)",
       Elemental: "Panna",
+      love: "Karta Pustelnik nie oznacza koniecznie negatywnych skutków dla uczuć i miłości. Może ona bowiem wskazywać na potrzebę czasu dla siebie i swoich rozmyślań, co w efekcie może prowadzić do większej samoakceptacji i gotowości do nawiązywania relacji z innymi ludźmi. Może także sugerować, że w życiu uczuciowym pojawi się ktoś, kto będzie dla nas ważny i będzie wpływał na nasze życie w pozytywny sposób. Jednakże, aby to się stało, musimy najpierw poradzić sobie z naszymi własnymi emocjami i zacząć działać w kierunku pozytywnych zmian.",
+      love_reverse:
+        "Jeśli karta pojawia się w pozycji odwróconej może sugerować, że jedna z osób w związku odczuwa potrzebę oddalenia się od partnera i skupienia się na swoich własnych sprawach. Może to wynikać z potrzeby rozwoju osobistego lub związane być z problemami emocjonalnymi. Jeśli natomiast karta ta pojawia się w kontekście poszukiwania miłości, może oznaczać konieczność samorefleksji i odkrywania swoich potrzeb i pragnień. Osoba, która odczuwa potrzebę samotności i izolacji, musi najpierw poradzić sobie z własnymi emocjami, zanim będzie mogła nawiązać prawdziwe i pełnowartościowe związki z innymi ludźmi",
       Mistics:
         "Chrystus pościł przez 40 dni na pustyni. Chronos , bóg czasu. Ojciec Czas. Hermes.",
       Questions_to_ask: [
@@ -440,6 +470,9 @@ export default {
       Numerology:
         "10 (ostateczność, zakończenie) i 10 = 1 + 0 = 1 (ziarno, szansa)",
       Elemental: "Jowisz",
+      love: "W pozycji prostej, karta ta zazwyczaj oznacza zmiany, które niosą ze sobą pozytywne efekty. W kontekście miłości, karta ta może oznaczać, że wkrótce pojawi się nowa osoba w Twoim życiu lub istniejący związek przejdzie na nowy poziom. Ta karta sugeruje, że Twój los jest pozytywny i że będziesz w stanie wykorzystać swoje szczęście w miłości.",
+      love_reverse:
+        "Jednak w pozycji odwróconej, karta Koło fortuny może wskazywać na niepewność i niestabilność w związku lub w Twoim życiu uczuciowym. Oznacza to, że Twój los w miłości jest niepewny, a Twoje relacje mogą zmierzać w niewłaściwym kierunku. Może to oznaczać, że jesteś w stagnacji lub doświadczasz trudności w poruszaniu się naprzód w swoim życiu miłosnym.",
       Mistics:
         "Bóg w maszynie. Deus ex Machina . Clotho , Lachesis i Atropos . Fortuna.",
       Questions_to_ask: [
@@ -483,6 +516,9 @@ export default {
       Numerology:
         "11 = 1 + 1 = 2 (debata, dwoistość) lub 8 (ruch, praca zewnętrzna)",
       Żywiołaki: "Lew lub Waga",
+      love: "Kiedy ta karta pojawia się w kontekście miłości i uczuć, może to oznaczać, że nadszedł czas, aby zwrócić uwagę na równowagę w związku. Może to oznaczać, że musimy zadbać o to, aby relacja była oparta na uczciwości, lojalności i wzajemnym szacunku. Co do pytania o uczucia drugiej osoby do nas, może oznaczać, że nasz partner lub osoba, którą kochamy, jest uczciwa, lojalna i prawdomówna.",
+      love_reverse:
+        "Karta odwrócona może sygnalizować trudności w związku. Może to oznaczać, że relacja jest nierówna, a jedna strona traktuje drugą ze zbytnią surowością. Konieczne może być wprowadzenie bardziej równomiernych warunków w relacji, aby uniknąć bólu i konfliktów. Co do pytania o uczucia drugiej osoby do nas, może oznaczać, że ta osoba jest zbyt surowa lub bezwzględna w swoich postawach i podejściu do naszego związku",
       Mistics: "Samson. Herkules. Daniel w jaskini lwa. Bezgrzeszny Chrystus.",
       Questions_to_ask: [
         "Jak mogę zwiększyć swoją samodyscyplinę?",
@@ -529,6 +565,9 @@ export default {
       "Alfabet hebrajski": " Mem /woda/40",
       Numerology: "12 = 1 + 2 = 3 (wyrażenie, produktywność, wynik)",
       Elemental: "Woda",
+      love: "W pozycji prostej, karta ta odnosi się do czasu oczekiwania na coś ważnego lub decyzji, której nie jesteśmy jeszcze w stanie podjąć. Może to oznaczać, że w kwestiach miłosnych znajdujemy się w punkcie zwrotnym i potrzebujemy czasu, aby zastanowić się nad tym, co chcemy zrobić dalej. Wisielec może symbolizować czas, który musimy poświęcić na samorozwój i pracę nad sobą, aby być gotowym na nowe relacje.",
+      love_reverse:
+        "W odwróconej pozycji, karta Wisielec oznacza często blokadę lub utknięcie w sytuacji, z której nie możemy się wydostać. W kontekście miłości, może to oznaczać, że mamy trudności w nawiązywaniu relacji lub w wyrażeniu swoich uczuć. Może to również wskazywać na trudności w zakończeniu toksycznej relacji lub w przejściu przez kryzys w związku.",
       Mistics:
         "Ukrzyżowany Chrystus. Izaak jako ofiara. Prometeusz związany. Jonasz i wieloryb. Łazarz. Każdy powieszony lub złożony w ofierze bóg. Judasz.",
       Questions_to_ask: [
@@ -570,6 +609,10 @@ export default {
       "Alfabet hebrajski": "Zakonnica/Ryba/50",
       Numerology: "13 = 1 + 3 = 4 (stabilność, wytrwałość)",
       Elemental: "Skorpion",
+      love: "W pozycji prostej, Śmierć oznacza zwykle koniec jednego etapu życia, który prowadzi do nowych początków. W kontekście miłości może to oznaczać koniec jednej relacji i początek nowej. Oznacza to zwykle, że czasem trzeba przestać trwać w relacji, która nam nie służy, aby zacząć nowy związek, który będzie bardziej satysfakcjonujący i zdrowy. Ta karta może także odzwierciedlać pozytywne zmiany w naszym życiu miłosnym, takie jak otwarcie się na nowe doświadczenia i uczucia.",
+
+      love_reverse:
+        "W pozycji odwróconej, Śmierć może wskazywać na opór lub niechęć do zmiany. W miłości może to oznaczać, że osoba trzyma się przeszłości lub nie jest gotowa zakończyć trudnej relacji, mimo że wie, że powinna. Może to także sugerować, że osoba ma trudności z radzeniem sobie z przeszłością, co wpływa na jej obecne relacje. Ta karta może sugerować, że konieczne jest zakończenie trudnej relacji, aby osiągnąć zdrowie emocjonalne i zacząć nowy etap w życiu miłosnym.",
       Mistics:
         "Chrystus w grobie. Hades. Hypnos. Thanatos . Opowieści o podróżach do podziemi.",
       Questions_to_ask: [
@@ -613,6 +656,9 @@ export default {
       "Alfabet hebrajski": " Samekh /Foundation/60",
       Numerology: "14 = 1 + 4 = 5 (katalizator, niestabilność, konfrontacja)",
       Elemental: "Strzelec",
+      love: "Karta Umiarkowanie w pozycji prostej zazwyczaj sugeruje, że w twoim życiu miłosnym panuje spokój i równowaga. Oznacza to, że jesteś w stanie kontrolować swoje emocje i podejmować decyzje z umiarem, co prowadzi do zdrowych relacji. Może to również oznaczać, że jesteś w stanie zrozumieć swojego partnera i znaleźć kompromisy, dzięki czemu związek jest bardziej harmonijny.",
+      love_reverse:
+        "W pozycji odwróconej Umiarkowanie może wskazywać na problemy związane z brakiem równowagi i nadmiernym pochłonięciem emocji. Może to wskazywać na konflikty w związku, które wynikają z nadmiernej emocjonalności i braku umiaru. Zdarza się, że karta ta odwrócona może sugerować, że jedna ze stron związku dominuje nad drugą, co prowadzi do niezdrowych relacji.",
       Mistics:
         "Anioł tutaj widziany może być boginią Iris. Co za tym idzie, kapłani, kapłaństwo lub przemieniony Chrystus.",
       Questions_to_ask: [
@@ -656,6 +702,9 @@ export default {
       "Alfabet hebrajski": " Ayin /Oko/70",
       Numerology: "15 = 1 + 5 = 6 (dostosowanie, współpraca)",
       Elemental: "Koziorożec",
+      love: "W pozycji prostej, karta Diabeł może oznaczać uzależnienie, pokusę, namiętność i pożądanie. Karta ta często sygnalizuje sytuacje, w których jedna osoba jest zniewolona przez drugą lub przez swoje własne słabości. Może to odnosić się do związku, w którym jedna strona dominuje nad drugą lub do sytuacji, w której jedna osoba jest uzależniona od drugiej emocjonalnie lub fizycznie. Karta ta może też wskazywać na potrzebę ucieczki od sytuacji, która nas przytłacza lub na konieczność podjęcia trudnych decyzji.",
+      love_reverse:
+        "W pozycji odwróconej, karta Diabeł wskazuje na wyzwolenie, uwolnienie się od okowów, uzdrowienie emocjonalne i wyjście z uzależnienia. Może to oznaczać przełamanie się z negatywnych nawyków, które wpływają na nasze relacje, lub uwolnienie się od osoby, która nas krzywdzi. Ta karta może być pozytywnym znakiem w kontekście związku, gdy jedna strona zdaje sobie sprawę z negatywnych wzorców, które wpływają na ich relację, i podejmuje kroki w celu ich przezwyciężenia.",
       Mistics:
         "Z pewnością biblijny szatan. Upadłe anioły, w tym Lucyfer. Bachus i Pan. Kusiciele i węże wszelkiego rodzaju.",
       Questions_to_ask: [
@@ -705,6 +754,9 @@ export default {
       "Alfabet hebrajski": " Pe [as]/otwarte usta/80",
       Numerology: "16 = 1 + 6 = 7 (psychologia, wyobraźnia, praca wewnętrzna)",
       Elemental: "Mars",
+      love: "Wieża może oznaczać, że związek znajduje się w kryzysie i zmierza ku upadkowi. Może to być wynikiem niespodziewanych wydarzeń lub trudnych decyzji, które zostaną podjęte. W pozytywnej interpretacji, karta ta może oznaczać konieczność zmiany i wzniesienia się na wyższy poziom w związku. Często to, co wydaje się być negatywne na pierwszy rzut oka, jest w rzeczywistości potrzebną lekcją dla rozwoju związku.",
+      love_reverse:
+        "Jeśli chodzi o interpretację odwróconej karty Wieża, może to oznaczać, że napięcia i problemy emocjonalne w związku zaczynają ustępować, a związek zaczyna się stabilizować. Oznacza to, że kryzys został zażegnany i teraz jest czas na odbudowanie związku na nowych podstawach.",
       Mistics:
         "Wieża Babel. Zniszczenie Sodomy i Gomory. Niszczycielski taniec Shivy. Błyskawica Zeusa i Thora.",
       Questions_to_ask: [
@@ -714,7 +766,7 @@ export default {
       ],
     },
     {
-      name: "Gwiazdy",
+      name: "Gwiazda",
       number: "17",
       omen: "dobry",
       arcana: "Wielka Arkana",
@@ -756,6 +808,9 @@ export default {
         " Tzaddi /Fishhook/90 lub, w niektórych taliach, On [as]/Okno/5",
       Numerology: "17 = 1 + 7 = 8 (akcja, ruch, szybkość)",
       Elemental: "Wodnik",
+      love: "W pozycji prostej, karta Gwiazda symbolizuje poczucie spokoju i ukojenia. Może to oznaczać, że relacja jest stabilna i harmonijna, a uczucia są silne i pełne nadziei na przyszłość. Oznacza to także, że obie strony w związku są gotowe na poświęcenie i oparcie, gdy tylko jest to potrzebne. Co do pytania o uczucia drugiej osoby, to karta wskazuje na uczucia szczere i otwarte. W pozycji prostej może to oznaczać, że druga osoba jest gotowa na szczere rozmowy.",
+      love_reverse:
+        " W pozycji odwróconej, karta Gwiazda może sugerować, że nadzieje i pragnienia są przesadnie wysokie lub nierealistyczne, co może prowadzić do rozczarowania. Może to również wskazywać na trudności w komunikacji i brak pewności siebie w relacji, co prowadzi do napięcia i braku harmonii. Może to wskazywać na brak pewności siebie, napięcia i problemy z otwartą komunikacją.",
       Mistics:
         "Gwiazda, która prowadziła Mędrców. Afrodyta. Wenus. Plejady. Mojżesz wydobywający wodę ze skały.",
       Questions_to_ask: [
@@ -803,6 +858,10 @@ export default {
       "Alfabet hebrajski": " Koph /tył głowy/100",
       Numerology: "18 = 1 + 8 = 9 (pełnia, gotowość, dojrzałość)",
       Elemental: "Ryby",
+      love: "W pozycji prostej, karta Księżyc może oznaczać, że miłość i uczucia są niejasne, skomplikowane i wymagają głębszej analizy i zrozumienia. Może to oznaczać, że musimy uważnie obserwować nasze emocje i intuicję, aby móc zrozumieć, co czujemy i jakie są nasze potrzeby w związku.Co do uczuć drugiej osoby do nas, karta Księżyc może wskazywać na to, że druga osoba jest niezdecydowana i ma mieszane uczucia wobec nas.",
+
+      love_reverse:
+        "  W pozycji odwróconej, karta Księżyc może wskazywać na zakłamanie lub brak szczerości w relacji między partnerami. Może to oznaczać, że jedna z osób ukrywa przed drugą swoje prawdziwe uczucia lub że coś jest nie tak w naszym związku. Ta karta może być ostrzeżeniem przed manipulacją lub oszustwem. Co do uczuć drugiej osoby do nas -  karta ta może wskazywać na to, że ta osoba ukrywa przed nami pewne fakty lub uczucia, co może prowadzić do nieporozumień",
       Mistics:
         "Kali, ciemnoskóra boska matka związana z czasem, wieczną nocą i kobiecą zasadą. Hekate, bogini nocy i ciemności, która podobnie jak Anubis pomaga innym w ich podróżach do podziemi. ",
       Questions_to_ask: [
@@ -844,6 +903,9 @@ export default {
       Numerology:
         "19 = 1 + 9 = 10 (ukończenie, wyczerpanie) 1 + 0 = 1 (punkt wyjścia, okazja)",
       Elemental: "Słońce",
+      love: "W pozycji prostej, karta Słońce może wskazywać na rozwój relacji między dwoma osobami, które cieszą się sobą nawzajem i mają dobre perspektywy na przyszłość. Karta ta może oznaczać miłość, która jest szczera, witalna i pełna radości. Jeśli jesteś w związku, karta  może wskazywać na stabilność i szczęście, które przynosi ta relacja. Jeśli szukasz miłości, karta może wskazywać na pozytywne i radosne doświadczenia miłosne. Może wskazywać na szczere i otwarte uczucia ze strony drugiej osoby.",
+      love_reverse:
+        " W pozycji odwróconej, karta Słońce może wskazywać na problemy z komunikacją w związku lub brak zaufania między partnerami. Karta ta może też oznaczać trudne wybory i dylematy w kwestiach miłosnych. Jednakże, zwykle interpretacja tej karty w pozycji odwróconej jest bardziej złożona i zależy od kontekstu.",
       Mistics:
         "Bóg Ojciec. Bogowie słońca, w tym Ra, Apollo i Helios. Moment chrztu. Uznanie nowej wiary za własną.",
       Questions_to_ask: [
@@ -892,6 +954,9 @@ export default {
       "Alfabet hebrajski": "Grzech/Ząb/300",
       Numerology: "20 = 2 + 0 = 2 (podział, dwoistość)",
       Elemental: "Ogień",
+      love: "W pozycji prostej, ta karta może wskazywać na to, że jesteśmy gotowi do podjęcia decyzji, która zmieni nasze życie. Może to być decyzja o zakończeniu związku lub ostatecznym zobowiązaniu wobec partnera. Co więcej, karta ta może także wskazywać na potrzebę przebaczenia i wybaczania, zarówno dla siebie jak i dla innych",
+      love_reverse:
+        "W pozycji odwróconej karta Sąd Ostateczny może sugerować, że trudno nam podjąć decyzję lub boimy się jej podjąć. Może to oznaczać, że wciąż trzymamy się pewnych przeszłościowych wzorców lub sytuacji, które blokują naszą zdolność do podjęcia kroku naprzód.",
       Mistics:
         "Zmartwychwstały Chrystus. Sąd Ostateczny według Objawienia. Feniks, który odradza się do nowego życia z własnych popiołów.",
       Questions_to_ask: [
@@ -932,6 +997,9 @@ export default {
       Archetype: "Oświecenie",
       Numerology: "21 = 2 + 1 = 3 (wyrażenie, wynik)",
       Elemental: "Saturn",
+      love: "Karta Świat w pozycji prostej może oznaczać, że znajdujemy się w fazie spełnienia naszych pragnień w związku lub znajdujemy się w fazie, w której nasza miłość rozkwita i rozwija się. Wskazuje na to, że relacja ta jest wspaniała, pełna harmonii i zgodna z naszymi pragnieniami. W tej pozycji karta ta może również symbolizować zakończenie trudnego okresu w naszej miłości, w którym musieliśmy zmierzyć się z trudnościami, ale w końcu udało nam się przetrwać i osiągnąć porozumienie",
+      love_reverse:
+        "Karta Świat w pozycji odwróconej może oznaczać, że czujemy się zagubieni i niezdecydowani w naszym związku lub w ogóle w kwestii miłości. Może to oznaczać, że potrzebujemy czasu, aby znaleźć swoje miejsce w życiu miłosnym lub że nasze relacje są w nieustannym rozdźwięku. W tej pozycji karta ta może także oznaczać, że nadmiernie polegamy na innych w naszych związkach i potrzebujemy nauczyć się być bardziej niezależnymi.",
       Mistics:
         "Wniebowstąpiony Chrystus. Budda osiągający oświecenie. Alfa i omega. Zakończenie wielkiego dzieła alchemika.",
       Questions_to_ask: [
@@ -973,6 +1041,8 @@ export default {
       },
       Numerology: "1 (Pochodzenie: punkt wyjścia, ziarno, okazja)",
       Astrology: "Rak, Skorpion, Ryby",
+      love: "",
+      love_reverse: "",
       Afirmations: '"Słucham rady mego serca."',
       Questions_to_ask: [
         "Co teraz czuję ?",
@@ -1014,6 +1084,8 @@ export default {
       },
       Numerology: "2 (Inny: dwoistość, podział, debata)",
       Astrology: "Wenus w raku",
+      love: "",
+      love_reverse: "",
       Afirmations:
         '"Jestem dostrojony do tego, czego naprawdę pragnie moje serce"',
       Questions_to_ask: [
@@ -1051,6 +1123,8 @@ export default {
       },
       Numerology: "3 (Wynik: wyrażenie, produktywność, wynik)",
       Astrology: "Rtęć w raku",
+      love: "",
+      love_reverse: "",
       Afirmations:
         '"Pozwalam, aby moje działania odzwierciedlały moje prawdziwe emocje."',
       Questions_to_ask: [
@@ -1090,6 +1164,8 @@ export default {
       },
       Numerology: "4 (Status quo: stabilność, równość, wytrwałość)",
       Astrology: "Księżyc w Raku",
+      love: "",
+      love_reverse: "",
       Afirmations: '"Doceniam to, co otrzymałem"',
       Questions_to_ask: [
         "Jak mogę wykorzystać ten przestój na swoją korzyść?",

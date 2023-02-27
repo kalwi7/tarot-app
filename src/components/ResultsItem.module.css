@@ -4,7 +4,8 @@
   font-size: 16px;
   border: 2px solid #3c4042;
   border-radius: 15px;
-  /* padding: 2rem; */
+  background-color: #202020;
+  color: white;
 }
 
 .results__card {
@@ -27,6 +28,7 @@
 
 .results__data {
   font-weight: 700;
+  color: #ff9900;
 }
 
 .results__wrapper {

@@ -3,21 +3,21 @@ import { useGlobalContext } from "../context";
 import classes from "./Card.module.css";
 import { useState } from "react";
 
-const Card = ({ name, omen, img, fortune_telling, keywords }) => {
+const Card = ({ name, love, img, love_reverse, keywords }) => {
   const [turnedCard, setTurnedCard] = useState(false);
+  const [isCardReversed, setIsCardReversed] = useState(
+    Math.random() >= 0.65 ? true : false
+  );
 
   const {
     setCheckedCards,
     checkedCards,
     numerOfCardsToDisplay,
     setIsPickingActive,
-    isPickingActive,
-    goodFortunePicked,
-    badFortunePicked,
   } = useGlobalContext();
 
   const pickingCardHandler = () => {
-    if (checkedCards.length >= numerOfCardsToDisplay / 2) {
+    if (checkedCards.length === numerOfCardsToDisplay) {
       setIsPickingActive(false);
       return;
     }
@@ -26,28 +26,28 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
       if (cards.name === name) return;
     }
 
-    let newCards = [{ name, img, omen, fortune_telling, keywords }];
+    let newCards = [
+      { name, img, love, love_reverse, keywords, isCardReversed },
+    ];
     newCards.push(...checkedCards);
     setCheckedCards(newCards);
     setTurnedCard(true);
-
-    if (omen === "dobry") {
-      goodFortunePicked();
-    }
-
-    if (omen === "zły") {
-      badFortunePicked();
-    }
   };
-
   return (
     <>
       <div
-        className={
+        className={`
+        ${
           turnedCard
             ? `${classes["card"]} ${classes["card--active"]}`
             : `${classes["card"]}`
+        } 
+        ${
+          turnedCard && isCardReversed
+            ? `${classes["card"]} ${classes["card--active"]} ${classes["card--reversed"]}`
+            : `${classes["card"]}`
         }
+        `}
         onClick={pickingCardHandler}
       >
         <div
@@ -55,7 +55,7 @@ const Card = ({ name, omen, img, fortune_telling, keywords }) => {
         >
           <img
             className={classes["card__image"]}
-            src="https://www.myslczlowieku.pl/wp-content/uploads/2022/12/karta-e1670882526773.png"
+            src="https://www.myslczlowieku.pl/wp-content/uploads/2023/02/karta.jpg"
             alt={name}
           ></img>
         </div>
